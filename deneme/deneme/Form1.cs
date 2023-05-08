@@ -9,14 +9,16 @@ using System.Windows.Forms;
 
 namespace deneme
 {
-    public partial class Form1 : DevExpress.XtraBars.Ribbon.RibbonForm
+    public partial class FrmGiris : DevExpress.XtraBars.Ribbon.RibbonForm
     {
-        public Form1()
+        public FrmGiris()
         {
             InitializeComponent();
         }
         FrmAnasayfa anasayfa;
-        public void formcagir()
+        FrmAraclar araclar;
+        FrmKiralanabilirAraclar kiralanabilirAraclar;
+        public  void anasayfacagir()
         {
             if (anasayfa == null)
             {
@@ -26,9 +28,29 @@ namespace deneme
 
             }
         }
-    private void barButtonItem1_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        public void araclarcagır()
         {
-            formcagir();
+            if (araclar == null)
+            {
+                araclar = new FrmAraclar();
+                araclar.MdiParent = this;
+                araclar.Show();
+
+            }
+        }
+        public void kiralanabiliraraclarcagır()
+        {
+            if (kiralanabilirAraclar == null)
+            {
+                kiralanabilirAraclar = new FrmKiralanabilirAraclar();
+                kiralanabilirAraclar.MdiParent = this;
+                kiralanabilirAraclar.Show();
+
+            }
+        }
+        private void barButtonItem1_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            anasayfacagir();
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -39,6 +61,16 @@ namespace deneme
         private void barButtonItem7_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
 
+        }
+
+        private void barButtonItem2_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            araclarcagır();
+        }
+
+        private void BtnKiralanabilirAraclar_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            kiralanabiliraraclarcagır();
         }
     }
 }

@@ -23,7 +23,6 @@ C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme
 C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
 C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.csproj.AssemblyReference.cache
 C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.csproj.SuggestedBindingRedirects.cache
-C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.Form1.resources
 C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.FrmAnasayfa.resources
 C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.Properties.Resources.resources
 C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
@@ -32,3 +31,18 @@ C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme
 C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.csproj.CopyComplete
 C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.exe
 C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.FrmAraclar.resources
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.FrmGiris.resources
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.FrmKiralanabilirAraclar.resources
