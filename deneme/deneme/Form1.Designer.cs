@@ -267,6 +267,7 @@
             this.BtnSubeislemleri.ItemAppearance.Normal.Font = new System.Drawing.Font("Tahoma", 10.2F);
             this.BtnSubeislemleri.ItemAppearance.Normal.Options.UseFont = true;
             this.BtnSubeislemleri.Name = "BtnSubeislemleri";
+            this.BtnSubeislemleri.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.BtnSubeislemleri_ItemClick);
             // 
             // BtnBakim
             // 

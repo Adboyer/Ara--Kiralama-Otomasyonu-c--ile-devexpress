@@ -46,3 +46,5 @@ C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme
 C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
 C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.Office.v22.2.Core.xml
 C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.FrmKiralanabilirAraclar.resources
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.FrmMusteriler.resources
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.FrmSube.resources

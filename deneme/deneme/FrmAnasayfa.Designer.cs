@@ -88,7 +88,7 @@
             this.groupControl1.Controls.Add(this.comboBoxEdit1);
             this.groupControl1.Location = new System.Drawing.Point(23, 89);
             this.groupControl1.Name = "groupControl1";
-            this.groupControl1.Size = new System.Drawing.Size(839, 383);
+            this.groupControl1.Size = new System.Drawing.Size(1031, 383);
             this.groupControl1.TabIndex = 0;
             this.groupControl1.Text = "Ara Kirala";
             // 
@@ -97,7 +97,7 @@
             this.panelControl1.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.panelControl1.Appearance.Options.UseBackColor = true;
             this.panelControl1.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
-            this.panelControl1.Location = new System.Drawing.Point(430, 0);
+            this.panelControl1.Location = new System.Drawing.Point(538, 3);
             this.panelControl1.Name = "panelControl1";
             this.panelControl1.Size = new System.Drawing.Size(10, 393);
             this.panelControl1.TabIndex = 23;
@@ -118,7 +118,7 @@
             this.labelControl13.Appearance.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.labelControl13.Appearance.Options.UseFont = true;
             this.labelControl13.Appearance.Options.UseForeColor = true;
-            this.labelControl13.Location = new System.Drawing.Point(455, 254);
+            this.labelControl13.Location = new System.Drawing.Point(606, 254);
             this.labelControl13.Name = "labelControl13";
             this.labelControl13.Size = new System.Drawing.Size(56, 28);
             this.labelControl13.TabIndex = 20;
@@ -130,7 +130,7 @@
             this.labelControl14.Appearance.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.labelControl14.Appearance.Options.UseFont = true;
             this.labelControl14.Appearance.Options.UseForeColor = true;
-            this.labelControl14.Location = new System.Drawing.Point(455, 220);
+            this.labelControl14.Location = new System.Drawing.Point(606, 220);
             this.labelControl14.Name = "labelControl14";
             this.labelControl14.Size = new System.Drawing.Size(34, 28);
             this.labelControl14.TabIndex = 19;
@@ -139,7 +139,7 @@
             // dateEdit2
             // 
             this.dateEdit2.EditValue = null;
-            this.dateEdit2.Location = new System.Drawing.Point(530, 229);
+            this.dateEdit2.Location = new System.Drawing.Point(681, 229);
             this.dateEdit2.Name = "dateEdit2";
             this.dateEdit2.Properties.Appearance.BackColor = System.Drawing.Color.Transparent;
             this.dateEdit2.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
@@ -159,7 +159,7 @@
             this.labelControl3.Appearance.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.labelControl3.Appearance.Options.UseFont = true;
             this.labelControl3.Appearance.Options.UseForeColor = true;
-            this.labelControl3.Location = new System.Drawing.Point(24, 290);
+            this.labelControl3.Location = new System.Drawing.Point(59, 290);
             this.labelControl3.Name = "labelControl3";
             this.labelControl3.Size = new System.Drawing.Size(43, 28);
             this.labelControl3.TabIndex = 16;
@@ -171,7 +171,7 @@
             this.labelControl10.Appearance.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.labelControl10.Appearance.Options.UseFont = true;
             this.labelControl10.Appearance.Options.UseForeColor = true;
-            this.labelControl10.Location = new System.Drawing.Point(23, 256);
+            this.labelControl10.Location = new System.Drawing.Point(58, 256);
             this.labelControl10.Name = "labelControl10";
             this.labelControl10.Size = new System.Drawing.Size(46, 28);
             this.labelControl10.TabIndex = 15;
@@ -183,7 +183,7 @@
             this.labelControl11.Appearance.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.labelControl11.Appearance.Options.UseFont = true;
             this.labelControl11.Appearance.Options.UseForeColor = true;
-            this.labelControl11.Location = new System.Drawing.Point(24, 222);
+            this.labelControl11.Location = new System.Drawing.Point(59, 222);
             this.labelControl11.Name = "labelControl11";
             this.labelControl11.Size = new System.Drawing.Size(45, 28);
             this.labelControl11.TabIndex = 14;
@@ -195,7 +195,7 @@
             this.labelControl2.Appearance.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.labelControl2.Appearance.Options.UseFont = true;
             this.labelControl2.Appearance.Options.UseForeColor = true;
-            this.labelControl2.Location = new System.Drawing.Point(23, 153);
+            this.labelControl2.Location = new System.Drawing.Point(58, 153);
             this.labelControl2.Name = "labelControl2";
             this.labelControl2.Size = new System.Drawing.Size(43, 28);
             this.labelControl2.TabIndex = 12;
@@ -207,7 +207,7 @@
             this.labelControl7.Appearance.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.labelControl7.Appearance.Options.UseFont = true;
             this.labelControl7.Appearance.Options.UseForeColor = true;
-            this.labelControl7.Location = new System.Drawing.Point(22, 119);
+            this.labelControl7.Location = new System.Drawing.Point(57, 119);
             this.labelControl7.Name = "labelControl7";
             this.labelControl7.Size = new System.Drawing.Size(64, 28);
             this.labelControl7.TabIndex = 11;
@@ -219,7 +219,7 @@
             this.labelControl8.Appearance.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.labelControl8.Appearance.Options.UseFont = true;
             this.labelControl8.Appearance.Options.UseForeColor = true;
-            this.labelControl8.Location = new System.Drawing.Point(23, 85);
+            this.labelControl8.Location = new System.Drawing.Point(58, 85);
             this.labelControl8.Name = "labelControl8";
             this.labelControl8.Size = new System.Drawing.Size(45, 28);
             this.labelControl8.TabIndex = 10;
@@ -231,7 +231,7 @@
             this.labelControl6.Appearance.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.labelControl6.Appearance.Options.UseFont = true;
             this.labelControl6.Appearance.Options.UseForeColor = true;
-            this.labelControl6.Location = new System.Drawing.Point(455, 132);
+            this.labelControl6.Location = new System.Drawing.Point(606, 132);
             this.labelControl6.Name = "labelControl6";
             this.labelControl6.Size = new System.Drawing.Size(56, 28);
             this.labelControl6.TabIndex = 8;
@@ -244,7 +244,7 @@
             this.labelControl5.Appearance.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.labelControl5.Appearance.Options.UseFont = true;
             this.labelControl5.Appearance.Options.UseForeColor = true;
-            this.labelControl5.Location = new System.Drawing.Point(455, 98);
+            this.labelControl5.Location = new System.Drawing.Point(606, 98);
             this.labelControl5.Name = "labelControl5";
             this.labelControl5.Size = new System.Drawing.Size(34, 28);
             this.labelControl5.TabIndex = 7;
@@ -254,7 +254,7 @@
             // dateEdit1
             // 
             this.dateEdit1.EditValue = null;
-            this.dateEdit1.Location = new System.Drawing.Point(530, 107);
+            this.dateEdit1.Location = new System.Drawing.Point(681, 107);
             this.dateEdit1.Name = "dateEdit1";
             this.dateEdit1.Properties.Appearance.BackColor = System.Drawing.Color.Transparent;
             this.dateEdit1.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
@@ -270,7 +270,7 @@
             // 
             // comboBoxEdit2
             // 
-            this.comboBoxEdit2.Location = new System.Drawing.Point(109, 229);
+            this.comboBoxEdit2.Location = new System.Drawing.Point(148, 229);
             this.comboBoxEdit2.Name = "comboBoxEdit2";
             this.comboBoxEdit2.Properties.Appearance.BackColor = System.Drawing.Color.Transparent;
             this.comboBoxEdit2.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
@@ -285,7 +285,7 @@
             // comboBoxEdit1
             // 
             this.comboBoxEdit1.EditValue = "";
-            this.comboBoxEdit1.Location = new System.Drawing.Point(109, 95);
+            this.comboBoxEdit1.Location = new System.Drawing.Point(148, 95);
             this.comboBoxEdit1.Name = "comboBoxEdit1";
             this.comboBoxEdit1.Properties.Appearance.BackColor = System.Drawing.Color.Transparent;
             this.comboBoxEdit1.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 36F);

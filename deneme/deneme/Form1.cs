@@ -18,6 +18,8 @@ namespace deneme
         FrmAnasayfa anasayfa;
         FrmAraclar araclar;
         FrmKiralanabilirAraclar kiralanabilirAraclar;
+        FrmMusteriler musteriler;
+        FrmSube subeler;
         public  void anasayfacagir()
         {
             if (anasayfa == null)
@@ -48,6 +50,27 @@ namespace deneme
 
             }
         }
+        public void musterilercagir()
+        {
+            if (musteriler == null)
+            {
+                musteriler = new FrmMusteriler();
+                musteriler.MdiParent = this;
+                musteriler.Show();
+
+            }
+        }
+        public void subelercagir()
+        {
+            if (subeler == null)
+            {
+                subeler = new FrmSube();
+                subeler.MdiParent = this;
+                subeler.Show();
+
+            }
+        }
+
         private void barButtonItem1_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             anasayfacagir();
@@ -60,7 +83,7 @@ namespace deneme
 
         private void barButtonItem7_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-
+            musterilercagir();
         }
 
         private void barButtonItem2_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
@@ -71,6 +94,11 @@ namespace deneme
         private void BtnKiralanabilirAraclar_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             kiralanabiliraraclarcagır();
+        }
+
+        private void BtnSubeislemleri_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            subelercagir();
         }
     }
 }
