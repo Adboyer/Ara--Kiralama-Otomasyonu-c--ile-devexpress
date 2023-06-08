@@ -1,0 +1,285 @@
+﻿<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{67A23150-F34B-49E4-8BD1-8A88243B502C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>deneme</RootNamespace>
+    <AssemblyName>deneme</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v22.1" />
+    <Reference Include="DevExpress.Data.Desktop.v22.1" />
+    <Reference Include="DevExpress.Data.v22.1" />
+    <Reference Include="DevExpress.Printing.v22.1.Core" />
+    <Reference Include="DevExpress.Utils.v22.1" />
+    <Reference Include="DevExpress.XtraBars.v22.1" />
+    <Reference Include="DevExpress.Sparkline.v22.1.Core" />
+    <Reference Include="DevExpress.XtraEditors.v22.1" />
+    <Reference Include="DevExpress.Drawing.v22.1" />
+    <Reference Include="DevExpress.XtraGrid.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AracKiralamaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AracKiralamaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AracKiralamaDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AracKiralamaDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AracKiralamaDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AracKiralamaDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAnasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAnasayfa.Designer.cs">
+      <DependentUpon>FrmAnasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAraclar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAraclar.Designer.cs">
+      <DependentUpon>FrmAraclar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAracSecme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAracSecme.Designer.cs">
+      <DependentUpon>FrmAracSecme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBitmisKiralamalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBitmisKiralamalar.Designer.cs">
+      <DependentUpon>FrmBitmisKiralamalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHakkında.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHakkında.Designer.cs">
+      <DependentUpon>FrmHakkında.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmiletisim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmiletisim.Designer.cs">
+      <DependentUpon>Frmiletisim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKiradakiAraclar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKiradakiAraclar.Designer.cs">
+      <DependentUpon>FrmKiradakiAraclar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKiralanabilirAraclar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKiralanabilirAraclar.Designer.cs">
+      <DependentUpon>FrmKiralanabilirAraclar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKvk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKvk.Designer.cs">
+      <DependentUpon>FrmKvk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMusteriler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMusteriler.Designer.cs">
+      <DependentUpon>FrmMusteriler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOnizleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOnizleme.Designer.cs">
+      <DependentUpon>FrmOnizleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPersonel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPersonel.Designer.cs">
+      <DependentUpon>FrmPersonel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSube.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSube.Designer.cs">
+      <DependentUpon>FrmSube.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmYardım.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmYardım.Designer.cs">
+      <DependentUpon>FrmYardım.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kiralamaİslemleri.cs" />
+    <Compile Include="Models\SubeModel.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="ProjeBaglanti.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAnasayfa.resx">
+      <DependentUpon>FrmAnasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAraclar.resx">
+      <DependentUpon>FrmAraclar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAracSecme.resx">
+      <DependentUpon>FrmAracSecme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBitmisKiralamalar.resx">
+      <DependentUpon>FrmBitmisKiralamalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmHakkında.resx">
+      <DependentUpon>FrmHakkında.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmiletisim.resx">
+      <DependentUpon>Frmiletisim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKiradakiAraclar.resx">
+      <DependentUpon>FrmKiradakiAraclar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKiralanabilirAraclar.resx">
+      <DependentUpon>FrmKiralanabilirAraclar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKvk.resx">
+      <DependentUpon>FrmKvk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMusteriler.resx">
+      <DependentUpon>FrmMusteriler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOnizleme.resx">
+      <DependentUpon>FrmOnizleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPersonel.resx">
+      <DependentUpon>FrmPersonel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSube.resx">
+      <DependentUpon>FrmSube.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmYardım.resx">
+      <DependentUpon>FrmYardım.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="AracKiralamaDataSet.xsc">
+      <DependentUpon>AracKiralamaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AracKiralamaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AracKiralamaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AracKiralamaDataSet.xss">
+      <DependentUpon>AracKiralamaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AracKiralamaDataSet1.xsc">
+      <DependentUpon>AracKiralamaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="AracKiralamaDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AracKiralamaDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AracKiralamaDataSet1.xss">
+      <DependentUpon>AracKiralamaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="AracKiralamaDataSet2.xsc">
+      <DependentUpon>AracKiralamaDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="AracKiralamaDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AracKiralamaDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AracKiralamaDataSet2.xss">
+      <DependentUpon>AracKiralamaDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

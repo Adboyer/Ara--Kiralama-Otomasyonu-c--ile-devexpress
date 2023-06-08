@@ -1,0 +1,188 @@
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.csproj.AssemblyReference.cache
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.FrmAnasayfa.resources
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.Properties.Resources.resources
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.exe.licenses
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.csproj.CopyComplete
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.FrmAraclar.resources
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.FrmGiris.resources
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.FrmKiralanabilirAraclar.resources
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.FrmMusteriler.resources
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\obj\Debug\deneme.FrmSube.resources
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\AdemTrks\OneDrive\Masaüstü\yazılım müh projesi\Proje\deneme\deneme\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\deneme.exe
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\deneme.pdb
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.csproj.AssemblyReference.cache
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.csproj.SuggestedBindingRedirects.cache
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.FrmGiris.resources
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.FrmAnasayfa.resources
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.FrmAraclar.resources
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.FrmKiralanabilirAraclar.resources
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.FrmMusteriler.resources
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.FrmSube.resources
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.Properties.Resources.resources
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.exe.licenses
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.csproj.CopyComplete
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.exe
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.pdb
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.FrmOnizleme.resources
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.FrmAracSecme.resources
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.FrmKiradakiAraclar.resources
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.FrmBitmisKiralamalar.resources
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.FrmLogin.resources
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.FrmPersonel.resources
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.FrmHakkında.resources
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.Frmiletisim.resources
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.FrmKvk.resources
+C:\Projeler\AracKiralamaProje\deneme\deneme\obj\Debug\deneme.FrmYardım.resources
